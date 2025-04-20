@@ -1,1 +1,0 @@
-. ~/.bashrc # For those circumstances (such as a tmux at the end of the bashrc) where it would normally only process the profile. C.f. https://stackoverflow.com/questions/9652126/bashrc-profile-is-not-loaded-on-new-tmux-session-or-window-why
